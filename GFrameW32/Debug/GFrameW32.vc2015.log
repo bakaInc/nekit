@@ -1,0 +1,12 @@
+﻿  Graphics.cpp
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(55): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(85): warning C4804: <: небезопасное использование типа "bool" в операции
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(258): warning C4189: typeT2: локальная переменная инициализирована, но не использована
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(257): warning C4189: typeDif2f: локальная переменная инициализирована, но не использована
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(251): warning C4189: typeDiff1: локальная переменная инициализирована, но не использована
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(244): warning C4189: typeDiff0: локальная переменная инициализирована, но не использована
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(252): warning C4189: typeT1: локальная переменная инициализирована, но не использована
+d:\progects\gframew32_nekit\gframew32\graphics.cpp(245): warning C4189: typeT0: локальная переменная инициализирована, но не использована
+  GFrameW32.vc2015.vcxproj -> D:\Progects\GFrameW32_nekit\Debug\GFrameW32.exe
+  GFrameW32.vc2015.vcxproj -> D:\Progects\GFrameW32_nekit\Debug\GFrameW32.pdb (Full PDB)
